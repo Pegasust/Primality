@@ -1,5 +1,5 @@
 from find_next_prime import *
-
+# all_prime_dates(1,0,2010,2100)
 def get_first_day(year):
     year *= 10000
     year += 101
